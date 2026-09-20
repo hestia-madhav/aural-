@@ -3,8 +3,8 @@
 **Session #:** FT-001
 **Date:** 20 September 2026
 **Location:** Akkuru Community Library
-**Facilitator(s):** Madhav Prakash, Sunita (co-facilitator)
-**EPP Program Lead:** [TBC — name to be confirmed]
+**Facilitator(s):** Madhav Prakash, Suneetha P (co-facilitator, from Channapatna)
+**EPP Program Lead:** Chandana Priya
 
 ---
 
@@ -118,7 +118,7 @@ This is the first formal **field trial** session. Prior to this, ~12 weeks of **
 
 ### What Worked
 - Library setting was supportive and welcoming
-- Sunita's co-facilitation was very helpful
+- Suneetha P's co-facilitation was very helpful
 - Two-batch reading approach (groups of ~5) worked well
 - Baseline video capture process was smooth
 
@@ -143,7 +143,7 @@ This is the first formal **field trial** session. Prior to this, ~12 weeks of **
 ## 8. Open Items
 
 - [ ] Link/consolidate prior field testing reports (~12 weeks of device testing sessions)
-- [ ] Share context from EPP program lead [name TBC]
+- [ ] Share context from Chandana Priya (EPP program lead)
 - [ ] Print additional storybooks before next session
 - [ ] Upload baseline videos to shared drive
 - [ ] Confirm next session location and date
